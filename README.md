@@ -29,5 +29,5 @@
 
 
 # Resultado
-![]
+<img width="560" height="82" alt="Image" src="https://github.com/user-attachments/assets/0e1f1710-3bbe-4a1d-a022-63838ff7137e" />
 
